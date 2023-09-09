@@ -4,6 +4,7 @@
 > Cuisine,
 > Rating, and
 > Cost.
+This system is built using Python and leverages libraries like NumPy, Pandas, Scikit-learn, and NLTK for data preprocessing, machine learning, and natural language processing tasks.
 
 Datasets:
 
