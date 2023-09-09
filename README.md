@@ -1,4 +1,4 @@
-# Restaurant_Recommendation_System
+# Restaurant Recommendation System
 > A restaurant recommendation system that uses machine learning to suggest restaurants based on:
 > Reviews,
 > Cuisine,
